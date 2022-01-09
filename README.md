@@ -19,6 +19,12 @@ Screenshot
 
 ![Web capture_8-1-2022_195313_](https://user-images.githubusercontent.com/94205464/148665072-c7f12bea-3933-4a4a-b0dd-1260969ba716.jpeg)
 
+
+Links
+-----
+
+The website is deployed at https://vakrathundaya.github.io/dailyPlanner/
+
 Technologies used
 ------------------
 
